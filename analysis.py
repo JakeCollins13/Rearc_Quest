@@ -12,6 +12,15 @@ AWS_ID   = # AWS KEY ID GOES HERE
 AWS_KEY  = # AWS KEY GOES HERE
 
 def lambda_handler(event, context):
+    """
+        Ingests the CSV data and JSON data from s3
+        Formats and transforms DataFrames as needed
+        Logs:
+            mean population yearly in the US within 2013-2018
+            standard deviation of yearly population in the US within 2013-2018
+            best year for each series_id
+            best year for each series_id with accompaying US population for that year
+    """
 
     bucket = "rearc-quest-2024"
     folder_path_part1 = "Datasets-Part1/pr_data_0_Current"
