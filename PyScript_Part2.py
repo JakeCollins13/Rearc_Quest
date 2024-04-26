@@ -32,9 +32,9 @@ def write_json_to_file_and_upload_to_s3():
 
     json_output = get_api_json("https://datausa.io/api/data?drilldowns=Nation&measures=Population")
 
+    # Create a JSON file
     filename = "JSON_Data_USA_Pull.json"
     with open(filename, "w") as outfile:
-        #json_object = json.dumps(json_output, indent=4)
         json_object = json.dumps(json_output)
         outfile.write(json_object)
 
