@@ -4,11 +4,6 @@
 
 Also thank you for the hints in the Data Quest Repo. Helped me along with BLS asking for the User-Agent email header, which was taking me longer than I would have liked, to figure out. Also the whitespace thing during Part3 because at first I though I was going crazy and there was a bug in my code that I couldn't find but the hint saved me from going completely insane and realizing it was just part of the dataset.
 
-## Contact Info
-* Name: Jake Collins
-* Email: **jakecollins0613@gmail.com**
-* Phone: (571) 442-4335
-
 ## Main Source Code Files
 
 - **PyScript_Part1.py:** Python script that runs the data ingest for the BLS website and pushes the CSV files to s3
