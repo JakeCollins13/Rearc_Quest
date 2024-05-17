@@ -2,7 +2,7 @@
 
 **Welcome to my source code repo for the Rearc Data Quest!**
 
-Also thank you for the hints in the Data Quest Repo. Helped me along with BLS asking for the User-Agent email header, which was taking me longer than I would have liked, to figure out. Also the whitespace thing during Part3 because at first I though I was going crazy and there was a bug in my code that I couldn't find but the hint saved me from going completely insane and realizing it was just part of the dataset.
+Also thank you for the hints in the Data Quest Repo. Helped me along with BLS asking for the User-Agent email header, which was taking me longer than I would have liked, to figure out. Also the whitespace thing during Part3 because at first I though I was going crazy and there was a bug in my code that I couldn't find but the hint saved me from going completely insane and realizing it was just part of the dataset..
 
 ## Main Source Code Files
 
